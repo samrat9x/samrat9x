@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samrat9xm
+- 👋 Hi, I’m @samrat
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
