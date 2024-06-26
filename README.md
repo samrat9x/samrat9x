@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samrat
+- 👋 Hi, I’m Samrat.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Software Development.
 
 <!---
 samrat9xm/samrat9xm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
