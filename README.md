@@ -27,4 +27,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## GitHub Activity Graph
-[![Samrat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samrat9x)](https://github.com/samrat9x/github-readme-activity-graph)
+[![Samrat's github activity graph](https://github-readme-activity-graph.koyeb.app/graph?username=samrat9x)](https://github.com/ashutosh00710/github-readme-activity-graph)
