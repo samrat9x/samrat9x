@@ -26,11 +26,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-# My GitHub Profile
-
 ## GitHub Activity Graph
-[![Samrat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samrat9x)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## My GitHub Stats
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat9x&show_icons=true&theme=radical)
+[![Samrat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samrat9x)](https://github.com/samrat9x/github-readme-activity-graph)
