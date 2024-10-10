@@ -25,3 +25,12 @@
 [![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# My GitHub Profile
+
+## GitHub Activity Graph
+[![Samrat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samrat9x)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## My GitHub Stats
+![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat9x&show_icons=true&theme=radical)
