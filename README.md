@@ -26,4 +26,4 @@
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat9x)](https://github.com/samrat9x/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/samrat9x/github-readme-stats)
