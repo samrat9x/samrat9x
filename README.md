@@ -53,4 +53,4 @@
 ### 📈 GitHub Activity Graph
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat9x)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat)
