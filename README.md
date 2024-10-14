@@ -1,3 +1,9 @@
+<div>
+  <a href="#">
+    <img width="100%" src="header-banner.svg"/>
+  </a>
+</div>
+
 ### 👨‍💼 About Me:
 🌱 I’m currently learning **SQL** and **Html Canvas**
 
