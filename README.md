@@ -30,9 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Samrat9x&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samrat9x&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat9x&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat9x&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 600px;">
-
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Samrat9x&limit=5&theme=dark&combine_all_yearly_contributions=true)
