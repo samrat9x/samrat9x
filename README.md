@@ -40,5 +40,3 @@
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat)
-
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samrat9x&theme=aura&hide_border=false)
