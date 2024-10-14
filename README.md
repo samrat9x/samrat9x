@@ -24,8 +24,8 @@
 
 ---
 ### 🔰 Blogs:
-![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@samrat9x)!
-[Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white)](https://dev.to/samrat9x)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@samrat9x)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white)](https://dev.to/samrat9x)
  
 ---
 ### 💻 Tech Stack:
