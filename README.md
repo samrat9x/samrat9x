@@ -10,6 +10,12 @@
   
 </div>
 
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)](https://wakatime.com/@018c0bb4-f729-474f-8d22-a9f4789adae8)
+  
+</div>
+
 ### 👨‍💼 About Me:
 🌱 I’m currently learning **SQL** and **Html Canvas**
 
@@ -33,9 +39,5 @@
 
 ### 📈 GitHub Activity Graph
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
-
-
-
-[![wakatime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)](https://wakatime.com/@018c0bb4-f729-474f-8d22-a9f4789adae8)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat)
