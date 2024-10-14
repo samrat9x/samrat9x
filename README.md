@@ -21,6 +21,7 @@
 ---
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/samrat9x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/samrat9x)
+
 ---
 ### 🔰 Blogs: [![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@samrat9x)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white)](https://dev.to/samrat9x) 
