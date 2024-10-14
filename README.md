@@ -41,4 +41,4 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat)
 
-![Commit Activity](https://github.com/Samrat9x/repo-name/blob/main/images/commit_activity.png?raw=true)
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=samrat9x&theme=react-dark&area=all)
