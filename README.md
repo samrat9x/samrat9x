@@ -1,3 +1,13 @@
+<div>
+  <a href="#">
+    <img width="100%" src="/assets/header-banner.svg"/>
+  </a>
+</div>
+
+<br />
+[![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ### 👨‍💼 About Me:
 🌱 I’m currently learning **SQL** and **Html Canvas**
 
@@ -16,8 +26,6 @@
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Samrat9x&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
