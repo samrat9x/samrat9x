@@ -1,3 +1,5 @@
+<img src="./assets/header-banner.svg" alt="Alt text" width="200" height="200">
+
 ### 👨‍💼 About Me:
 🌱 I’m currently learning **SQL** and **Html Canvas**
 
