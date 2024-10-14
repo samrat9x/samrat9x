@@ -4,8 +4,11 @@
   </a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
+  [![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+</div>
 
 ### 👨‍💼 About Me:
 🌱 I’m currently learning **SQL** and **Html Canvas**
