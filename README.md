@@ -16,7 +16,6 @@
   
 </div>
 
-### 👨‍💼 About Me:
 🌱 I’m currently learning **SQL** and **Html Canvas**
 
 ---
