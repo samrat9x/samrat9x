@@ -56,5 +56,5 @@
 
 <img
   src="https://github.com/samrat9x/samrat9x/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="WakaTime Activity"
 />
