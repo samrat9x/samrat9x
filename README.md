@@ -50,5 +50,11 @@
 ---
 
 
+### 📊 Weekly Coding Stats
 <!--START_SECTION:waka-->
+| Language      | Time     |
+|---------------|----------|
+| JavaScript    | 20 hours |
+| Python        | 15 hours |
+| HTML          | 10 hours |
 <!--END_SECTION:waka-->
