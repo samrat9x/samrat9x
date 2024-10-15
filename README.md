@@ -57,3 +57,8 @@
 
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat)
+
+<img
+  src="https://github.com/samrat9x/samrat9x/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
