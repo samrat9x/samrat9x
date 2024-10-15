@@ -48,3 +48,7 @@
 ### ⌨ Coding Hours:
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=tokyonight&link="https://www.github.com/samrat9x/")
 ---
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
