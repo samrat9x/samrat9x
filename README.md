@@ -54,4 +54,4 @@
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
 
 ### ⌨ Coding Hours:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=tokyonight&link="https://www.github.com/samrat9x/")
+![Total Coding](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=tokyonight&link="https://www.github.com/samrat9x/")
