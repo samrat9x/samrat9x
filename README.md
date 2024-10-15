@@ -53,4 +53,8 @@
 ### 📈 GitHub Activity Graph
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
 
-![WakaTime Stats](https://raw.githubusercontent.com/samrat9x/samrat9x/main/assets/wakatime-stats.svg)
+<div>
+  <a href="#">
+    <img width="100%" src="/assets/waka.svg"/>
+  </a>
+</div>
