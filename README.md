@@ -60,3 +60,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=samrat&theme=tokyonight" />
   </a>
 </p>
+
+https://github-readme-stats.vercel.app/api/wakatime?username=samrat
