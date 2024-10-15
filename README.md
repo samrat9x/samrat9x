@@ -43,14 +43,14 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Samrat9x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 📈 GitHub Activity Graph
+### 📈 GitHub Activity Graph:
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
 
 ### ⌨ Coding Hours:
