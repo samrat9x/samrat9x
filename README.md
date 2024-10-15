@@ -56,4 +56,4 @@
 
 
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat)](https://github.com/samrat9x/github-readme-stats)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrat)
