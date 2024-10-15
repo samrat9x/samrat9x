@@ -18,7 +18,6 @@
 
  🌱 I’m currently learning **SQL** and **Html Canvas**
 
-<br>
 ---
 
 ### 🌐 Socials:
