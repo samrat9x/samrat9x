@@ -15,10 +15,8 @@
 [![wakatime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)](https://wakatime.com/@018c0bb4-f729-474f-8d22-a9f4789adae8)
   
 </div>
-<p>
- 🌱 I’m currently learning **SQL** and **Html Canvas**
-</p>
 
+ 🌱 I’m currently learning **SQL** and **Html Canvas** <br>
 ---
 
 ### 🌐 Socials:
