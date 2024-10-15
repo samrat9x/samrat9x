@@ -15,8 +15,8 @@
 [![wakatime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)](https://wakatime.com/@018c0bb4-f729-474f-8d22-a9f4789adae8)
   
 </div>
-🌱 I’m currently learning **SQL** and **Html Canvas**
 
+🌱 I’m currently learning **SQL** and **Html Canvas**
 ---
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/samrat9x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/samrat9x)
