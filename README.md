@@ -16,7 +16,8 @@
   
 </div>
 
- 🌱 I’m currently learning **SQL** and **Html Canvas** <br>
+ 🌱 I’m currently learning **SQL** and **Html Canvas** 
+<br>
 ---
 
 ### 🌐 Socials:
