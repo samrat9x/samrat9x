@@ -16,7 +16,7 @@
   
 </div>
 
-🌱 I’m currently learning **SQL** and **C**.
+🌱 I’m currently learning **SQL** and **C**
 
 ---
 ### 🌐 Socials:
