@@ -52,9 +52,3 @@
 
 ### 📈 GitHub Activity Graph
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
-
-<div>
-  <a href="#">
-    <img width="100%" src="/assets/waka-stats.svg"/>
-  </a>
-</div>
