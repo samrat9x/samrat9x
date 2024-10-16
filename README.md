@@ -55,6 +55,6 @@
 ---
 
 ### ⌨ Coding Hours:
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=github-compact&link="https://www.github.com/samrat9x/")
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=aura&link="https://www.github.com/samrat9x/")
 
 ---
