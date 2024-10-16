@@ -14,8 +14,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samrat9x&color=blue)
 
-![Profile Views](https://count.getloli.com/get/@samrat9x?theme=flat)
-
 </div>
 
 
