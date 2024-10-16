@@ -4,6 +4,12 @@
   </a>
 </div>
 
+
+<div align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/samrat9x">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">
+</div>
+
 <div align="center">
 
   [![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -56,12 +62,5 @@
 
 ### ⌨ Coding Hours:
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=aura&link="https://www.github.com/samrat9x/")
-
-
-
-<div align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/samrat9x">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">
-</div>
 
 ---
