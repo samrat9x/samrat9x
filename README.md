@@ -15,7 +15,7 @@
 [![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-![WakaTime](https://wakatime.com/badge/user/12345678-90ab-cdef-1234-567890abcdef.svg)
+![WakaTime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)
 
 </div>
 
