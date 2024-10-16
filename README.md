@@ -10,7 +10,7 @@
 ![Followers](https://img.shields.io/github/followers/samrat9x?style=flat) 
 ![Total Stars](https://img.shields.io/github/stars/samrat9x?style=flat)
 ![Total Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=flat)
-![Profile Views](https://komarev.com/ghpvc/?username=samrat9x&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=samrat9x)
 ![WakaTime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)
 
 </div>
