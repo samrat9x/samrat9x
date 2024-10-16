@@ -60,10 +60,8 @@
 
 
 <div align="center">
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=samrat9x&label=Profile%20views&color=0e75b6&style=flat" alt="samrat9x" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/samrat9x">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">
-</p>
 </div>
 
 ---
