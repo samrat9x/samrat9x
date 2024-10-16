@@ -63,9 +63,6 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=samrat9x&label=Profile%20views&color=0e75b6&style=flat" alt="samrat9x" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/samrat9x">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">
-
-[![wakatime](https://wakatime.com/badge/user/018d9380-70f1-4382-8a62-992711d1c6ac.svg)](https://wakatime.com/@018d9380-70f1-4382-8a62-992711d1c6ac)
-
 </p>
 </div>
 
