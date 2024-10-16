@@ -7,14 +7,15 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/samrat9x?style=social)
-
-![Stars](https://img.shields.io/github/stars/samrat9x/REPO?style=social)
-
-![Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=social)
-
-[![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
-[![wakatime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)](https://wakatime.com/@018c0bb4-f729-474f-8d22-a9f4789adae8)
+<a href="https://github.com/samrat9x?tab=followers">
+  <img src="https://img.shields.io/github/followers/samrat9x?style=social" alt="Followers" />
+</a>
+<a href="https://github.com/samrat9x/REPO/stargazers">
+  <img src="https://img.shields.io/github/stars/samrat9x/REPO?style=social" alt="Stars" />
+</a>
+<a href="https://github.com/samrat9x/REPO/network/members">
+  <img src="https://img.shields.io/github/forks/samrat9x/REPO?style=social" alt="Forks" />
+</a>
 
 </div>
 
