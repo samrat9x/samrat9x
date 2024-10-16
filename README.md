@@ -7,14 +7,9 @@
 
 <div align="center">
 
-<a href="https://github.com/samrat9x?tab=followers">
-  <img src="https://img.shields.io/github/followers/samrat9x?style=social" alt="Followers" />
-</a>
-  <img src="https://img.shields.io/github/stars/samrat9x/REPO?style=social" alt="Stars" />
-</a>
-<a href="https://github.com/samrat9x/REPO/network/members">
-  <img src="https://img.shields.io/github/forks/samrat9x/REPO?style=social" alt="Forks" />
-</a>
+![Followers](https://img.shields.io/github/followers/samrat9x?style=social)
+![Stars](https://img.shields.io/github/stars/samrat9x/REPO?style=social) 
+![Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=social)
 
 </div>
 
