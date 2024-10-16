@@ -10,7 +10,6 @@
 <a href="https://github.com/samrat9x?tab=followers">
   <img src="https://img.shields.io/github/followers/samrat9x?style=social" alt="Followers" />
 </a>
-<a href="https://github.com/samrat9x/REPO/stargazers">
   <img src="https://img.shields.io/github/stars/samrat9x/REPO?style=social" alt="Stars" />
 </a>
 <a href="https://github.com/samrat9x/REPO/network/members">
