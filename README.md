@@ -9,6 +9,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/samrat9x">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">
+![Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=social)
 
 [![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)](https://wakatime.com/@018c0bb4-f729-474f-8d22-a9f4789adae8)
