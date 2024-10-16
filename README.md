@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/samrat9x?style=social) 
+![Followers](https://img.shields.io/github/followers/samrat9x?style=flat) 
 ![Stars](https://img.shields.io/github/stars/samrat9x/REPO?style=social)  
 ![Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=social)
 
