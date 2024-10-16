@@ -6,10 +6,8 @@
 
 
 <div align="center">
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/samrat9x">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">
-
+![Followers](https://img.shields.io/github/followers/samrat9x?style=social) 
+![Stars](https://img.shields.io/github/stars/samrat9x/REPO?style=social) 
 ![Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=social)
 
 [![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
