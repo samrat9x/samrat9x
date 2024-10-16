@@ -37,7 +37,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samrat9x&show_icons=true&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat9x\&show_icons=true&theme=aura\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samrat9x&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat9x&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -57,5 +58,3 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=tokyonight&link="https://www.github.com/samrat9x/")
 
 ---
-
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat9x\&show_icons=true&theme=aura\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
