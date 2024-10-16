@@ -8,9 +8,7 @@
 <div align="center">
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/samrat9x">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">
-
-[![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/samrat9x">[![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
