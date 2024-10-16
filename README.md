@@ -11,6 +11,10 @@
 ![Stars](https://img.shields.io/github/stars/samrat9x/REPO?style=flat)  
 ![Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=flat)
 
+
+![Total Stars](https://img.shields.io/github/stars/samrat9x?style=social)
+![Total Forks](https://img.shields.io/github/forks/samrat9x?style=social)
+
 </div>
 
 
