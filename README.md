@@ -9,6 +9,7 @@
 
 ![Followers](https://img.shields.io/github/followers/samrat9x?style=flat) 
 ![Total Stars](https://img.shields.io/github/stars/samrat9x?style=flat)
+![Total Forks](https://github-readme-stats.vercel.app/api?username=samrat9x&show_icons=true&hide=contribs,issues&count_private=true)
 
 </div>
 
