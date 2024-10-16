@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/samrat9x&color=brightgreen?style=flat) 
+![Followers](https://img.shields.io/github/followers/samrat9x?style=flat) 
 ![Total Stars](https://img.shields.io/github/stars/samrat9x?style=flat)
 ![Total Forks](https://img.shields.io/github/forks/samrat9x/REPO?style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=samrat9x&color=blueviolet)
