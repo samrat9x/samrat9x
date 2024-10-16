@@ -12,8 +12,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=samrat9x&color=blue)
 [![wakatime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)](https://wakatime.com/@018c0bb4-f729-474f-8d22-a9f4789adae8)
 <!--
-[![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
+![](https://visitcount.itsvg.in/api?id=Samrat9x&icon=0&color=0)
 
 ![WakaTime](https://wakatime.com/badge/user/018c0bb4-f729-474f-8d22-a9f4789adae8.svg)
 
