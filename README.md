@@ -6,6 +6,7 @@
 
 
 <div align="center">
+
 ![Followers](https://img.shields.io/github/followers/samrat9x?style=social)
 
 ![Stars](https://img.shields.io/github/stars/samrat9x/REPO?style=social)
