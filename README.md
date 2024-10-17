@@ -61,4 +61,11 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/wakatime/?username=samrat&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Wee)
+<p align="center">
+  <img
+    src="https://socialify.git.ci/samrat/waka-readme/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
+    alt="waka-readme"
+    width="640"
+    height="320"
+  />
+</p>
