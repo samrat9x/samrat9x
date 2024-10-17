@@ -1,4 +1,3 @@
-![Samrat's GitHub Commit Calendar](https://github-contributions.vercel.app/api/v1/samrat9x)
 
 
 <div>
