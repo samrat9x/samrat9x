@@ -61,4 +61,4 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=samrat&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=
+![](https://github-readme-stats.vercel.app/api/wakatime?username=samrat&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Wee)
