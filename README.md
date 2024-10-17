@@ -63,7 +63,7 @@
 
 <p align="center">
   <img
-    src="https://socialify.git.ci/samrat/waka-readme/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
+    src="https://socialify.git.ci/samrat9x/waka-readme/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
     alt="waka-readme"
     width="640"
     height="320"
