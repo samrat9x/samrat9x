@@ -58,3 +58,7 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=aura&link="https://www.github.com/samrat9x/")
 
 ---
+
+
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=samrat&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=
