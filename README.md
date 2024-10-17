@@ -58,10 +58,3 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=aura&link="https://www.github.com/samrat9x/")
 
 ---
-
-
-# Samrat's Contributions 🌱
-
-[![Samrat's Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/samrat9x)
-
-![GitHub Contributions](https://github-contributions.vercel.app/api?username=samrat9x&svg=true&columns=52&rows=7&scheme=green)
