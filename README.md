@@ -1,3 +1,6 @@
+![Samrat's GitHub Commit Calendar](https://github-contributions.vercel.app/api/v1/samrat9x)
+
+
 <div>
   <a href="#">
     <img width="100%" src="/assets/header-banner.svg"/>
