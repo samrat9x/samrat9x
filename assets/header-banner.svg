@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.0562061"
+     inkscape:zoom="0.89344262"
      inkscape:cx="427"
-     inkscape:cy="145.33149"
+     inkscape:cy="144.94495"
      inkscape:window-width="1600"
      inkscape:window-height="847"
      inkscape:window-x="-8"
@@ -35,16 +35,16 @@
   <style
      id="style1">
     .text {
-      font-size: 60px;
-      font-weight: 700;
-      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
     }
     .desc {
-      font-size: 30px;
-      font-weight: 500;
-      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
     }
   </style>
   <g
@@ -90,9 +90,7 @@
      style="fill:#c9d1d9"
      stroke="#none"
      stroke-width="1"
-     id="text2"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredericka the Great';-inkscape-font-specification:'Fredericka the Great'"
-       id="tspan3">Hi, I am Samrat</tspan></text>
+     id="text2">Hi, I am Samrat</text>
   <text
      text-anchor="middle"
      alignment-baseline="middle"
@@ -100,7 +98,5 @@
      y="50%"
      class="desc"
      style="fill:#c9d1d9"
-     id="text3"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredericka the Great';-inkscape-font-specification:'Fredericka the Great'"
-       id="tspan4">An Aspiring Software Engineer</tspan></text>
+     id="text3">An Aspiring Software Engineer</text>
 </svg>
