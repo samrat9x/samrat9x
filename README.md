@@ -34,9 +34,40 @@
 
 <br />
 
+## Projects
+
+-
+-
+
+### Legacy Work
+
+-
+-
+
+## ‎
+
+<br />
+
 <p align="center">
   <a href="#">
     <img
       align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samrat9x&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=02B784&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
   </a>
 </p>
+
+# ‎
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/samrat9x">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="256" alt="samrat9x" />
+  </a>
+</p>
+
+<div>
+  <a href="#">
+    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/main/assets/footer-banner.svg"/>
+  </a>
+</div>
