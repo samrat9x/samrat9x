@@ -1,12 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  style="z-index: 1; position: relative"
-  width="854"
-  height="290"
-  viewBox="0 0 854 290"
->
-  <style>
+   style="z-index: 1; position: relative"
+   width="854"
+   height="290"
+   viewBox="0 0 854 290"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="header-banner.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0562061"
+     inkscape:cx="427"
+     inkscape:cy="145.33149"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <style
+     id="style1">
     .text {
       font-size: 60px;
       font-weight: 700;
@@ -20,53 +47,60 @@
         sans-serif, Apple Color Emoji, Segoe UI Emoji;
     }
   </style>
-  <g transform="translate(427, 145) scale(1, 1) translate(-427, -145)">
-    <path d="" fill="#161B22" opacity="0.4">
+  <g
+     transform="translate(427, 145) scale(1, 1) translate(-427, -145)"
+     id="g2">
+    <path
+       d=""
+       fill="#161B22"
+       opacity="0.4"
+       id="path1">
       <animate
-        attributeName="d"
-        dur="20s"
-        repeatCount="indefinite"
-        keyTimes="0;0.333;0.667;1"
-        calcmod="spline"
-        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-        begin="0s"
-        values="M0 0L 0 210Q 213.5 250 427 220T 854 245L 854 0 Z;M0 0L 0 235Q 213.5 250 427 230T 854 220L 854 0 Z;M0 0L 0 255Q 213.5 225 427 255T 854 220L 854 0 Z;M0 0L 0 210Q 213.5 250 427 220T 854 245L 854 0 Z"
-      ></animate>
+         attributeName="d"
+         dur="20s"
+         repeatCount="indefinite"
+         keyTimes="0;0.333;0.667;1"
+         calcmod="spline"
+         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+         begin="0s"
+         values="M0 0L 0 210Q 213.5 250 427 220T 854 245L 854 0 Z;M0 0L 0 235Q 213.5 250 427 230T 854 220L 854 0 Z;M0 0L 0 255Q 213.5 225 427 255T 854 220L 854 0 Z;M0 0L 0 210Q 213.5 250 427 220T 854 245L 854 0 Z" />
     </path>
-    <path d="" fill="#161B22" opacity="0.4">
+    <path
+       d=""
+       fill="#161B22"
+       opacity="0.4"
+       id="path2">
       <animate
-        attributeName="d"
-        dur="20s"
-        repeatCount="indefinite"
-        keyTimes="0;0.333;0.667;1"
-        calcmod="spline"
-        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-        begin="-10s"
-        values="M0 0L 0 225Q 213.5 270 427 240T 854 250L 854 0 Z;M0 0L 0 240Q 213.5 210 427 210T 854 230L 854 0 Z;M0 0L 0 235Q 213.5 215 427 240T 854 255L 854 0 Z;M0 0L 0 225Q 213.5 270 427 240T 854 250L 854 0 Z"
-      ></animate>
+         attributeName="d"
+         dur="20s"
+         repeatCount="indefinite"
+         keyTimes="0;0.333;0.667;1"
+         calcmod="spline"
+         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+         begin="-10s"
+         values="M0 0L 0 225Q 213.5 270 427 240T 854 250L 854 0 Z;M0 0L 0 240Q 213.5 210 427 210T 854 230L 854 0 Z;M0 0L 0 235Q 213.5 215 427 240T 854 255L 854 0 Z;M0 0L 0 225Q 213.5 270 427 240T 854 250L 854 0 Z" />
     </path>
   </g>
-
   <text
-    text-anchor="middle"
-    alignment-baseline="middle"
-    x="50%"
-    y="30%"
-    class="text"
-    style="fill: #c9d1d9"
-    stroke="#none"
-    stroke-width="1"
-  >
-    Hi, I am Samrat
-  </text>
+     text-anchor="middle"
+     alignment-baseline="middle"
+     x="50%"
+     y="30.000002%"
+     class="text"
+     style="fill:#c9d1d9"
+     stroke="#none"
+     stroke-width="1"
+     id="text2"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredericka the Great';-inkscape-font-specification:'Fredericka the Great'"
+       id="tspan3">Hi, I am Samrat</tspan></text>
   <text
-    text-anchor="middle"
-    alignment-baseline="middle"
-    x="50%"
-    y="50%"
-    class="desc"
-    style="fill: #c9d1d9"
-  >
-    A Mathematician and Tech Enthusiast
-  </text>
+     text-anchor="middle"
+     alignment-baseline="middle"
+     x="50%"
+     y="50%"
+     class="desc"
+     style="fill:#c9d1d9"
+     id="text3"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredericka the Great';-inkscape-font-specification:'Fredericka the Great'"
+       id="tspan4">An Aspiring Software Engineer</tspan></text>
 </svg>
