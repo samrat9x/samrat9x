@@ -38,33 +38,9 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrat9x&show_icons=true&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samrat9x&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat9x&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- ---
-
-### 🔝 Top Contributed Repo:
-
-![](https://github-contributor-stats.vercel.app/api?username=Samrat9x&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
----
-
-### 📈 GitHub Activity Graph:
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samrat9x&theme=github-compact)](https://github.com/samrat9x/github-readme-activity-graph)
-
---- -->
-
-<!-- ### ⌨ Coding Hours:
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=samrat&layout=compact&&theme=aura&link="https://www.github.com/samrat9x/")
-
----
-
-![Metrics](https://metrics.lecoq.io/Samrat9x?template=classic&base.metadata=0&isocalendar=1&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka)
-
---- -->
+<p align="center">
+  <a href="#">
+    <img
+      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samrat9x&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+  </a>
+</p>
