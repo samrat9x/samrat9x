@@ -18,7 +18,7 @@
 </div>
 
 
-🌱 I’m currently learning **SQL** and **C**
+🌱 I’m currently learning **NodeJS** and **C**
 
 ---
 ### 🌐 Reach Me:
