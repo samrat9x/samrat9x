@@ -50,7 +50,19 @@
 <p align="center">
   <a href="#">
     <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samrat9x&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=02B784&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samrat9x&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=02B784&currStreakLabel=A6A6A6&border=transparent&background=161B22" />
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img
+      align="center" src="https://github-readme-stats-fast.vercel.app/api?username=samrat9x&show_icons=true&theme=dracula&bg_color=161B22&disable_animations=false&rank_icon=default&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&text_bold=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img
+      align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=samrat9x&theme=dracula&disable_animations=false&bg_color=161B22&layout=compact&hide_border=true&text_bold=false" />
   </a>
 </p>
 
