@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 📧 Mail: **samrat9x@gmail.com**
+- 📫 Contact: [**Telegram**](https://t.me/samrat9x)
 - 🌐 Website: [**samrat9x.vercel.app**](https://samrat9x.vercel.app)
 - ✍️ Blog: [**Medium**](https://medium.com/@samrat9x) | [**Dev.to**](https://dev.to/samrat9x)
 - 🌍 Socials: [**Facebook**](https://facebook.com/samrat9x) | [**LinkedIn**](https://linkedin.com/in/samrat9x) | [**X**](https://x.com/samrat9x)
@@ -69,11 +69,6 @@
 # ‎
 
 <br />
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <br />
 
 <p align="center">
