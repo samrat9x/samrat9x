@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/samrat9x)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samrat9x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrat9x)
@@ -12,6 +14,8 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=DEV.TO&logoColor=white)](https://dev.to/samrat9x)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27813143/samrat)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samrat9x)
+
+</div>
 
 ## Skills
 
