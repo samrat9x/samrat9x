@@ -13,7 +13,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samrat9x)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=DEV.TO&logoColor=white)](https://dev.to/samrat9x)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27813143/samrat)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samrat9x)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SmartLogicLab)
 
 </div>
 
