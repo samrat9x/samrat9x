@@ -87,6 +87,6 @@
 
 <div>
   <a href="#">
-    <img width="100%" src="https://github.com/NazmusSayad/NazmusSayad/raw/refs/heads/main/assets/footer-banner.svg"/>
+    <img width="100%" src="./assets/footer-banner.svg"/>
   </a>
 </div>
